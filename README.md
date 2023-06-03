@@ -26,9 +26,9 @@ Step 7: Save and run the application.
 
 Program to print the text GUIcomponent
 
-Developed by:Kathirvelan.K
+Developed by:Sreevarsha.D
 
-Registeration Number :212221220026
+Registeration Number :212221040159
 
 activity_main.xml
 ```
@@ -47,7 +47,7 @@ activity_main.xml
         android:layout_margin="30dp"
         android:layout_marginTop="296dp"
         android:gravity="center"
-        android:text="Hello Kathirvelan....."
+        android:text="Hello Sreevarsha....."
         android:textSize="25sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toTopOf="@+id/button1"
@@ -154,7 +154,7 @@ public class MainActivity extends AppCompatActivity {
 
 ### OUTPUT:
 
-![](https://github.com/KATHIR1611/mad-2/blob/main/WhatsApp%20Image%202023-06-03%20at%2011.16.39%20PM.jpeg)
+![]()
 
 ### RESULT:
 
