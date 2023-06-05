@@ -1,5 +1,7 @@
 # Ex.No:2 To-develop-an-application-that-uses-GUI-Components-with-Fonts-and-Colors
 
+Date : 23.03.23
+
 ### AIM:
 To create an application that uses GUI Components with Fonts and Colors using Android Studio.
 
