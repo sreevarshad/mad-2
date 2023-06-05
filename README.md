@@ -156,8 +156,7 @@ public class MainActivity extends AppCompatActivity {
 
 ### OUTPUT:
 
-![](https://github.com/sreevarshad/mad-2/blob/main/WhatsApp%20Image%202023-06-04%20at%2012.05.41%20AM.jpeg)
+<img src ="WhatsApp Image 2023-06-04 at 12.05.41 AM.jpeg" width=400 height=700>
 
 ### RESULT:
-
 Thus, a Simple Android Application that uses GUI Components with Fonts and Colors using Android Studio is developed and executed successfully.
