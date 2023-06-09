@@ -156,7 +156,7 @@ public class MainActivity extends AppCompatActivity {
 
 ### OUTPUT:
 
-<img src="https://github.com/sreevarshad/mad-2/blob/main/mmm%202%20s1.jpeg" width=1500 height=800>
+<img src="https://github.com/sreevarshad/mad-2/blob/main/mmm%202%20s1.jpeg" height=800>
 <img src ="WhatsApp Image 2023-06-04 at 12.05.41 AM.jpeg" width=400 height=700>
 
 ### RESULT:
